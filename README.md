@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimbiplob75&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimbiplob75" /> </p>
 
-<img align="right" alt="Coding" width="550px"  src="https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif">
+<img align="right" alt="Coding" width="500px"  src="https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif">
 
 
 
