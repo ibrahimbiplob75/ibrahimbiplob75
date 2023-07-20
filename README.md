@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Ibrahim Biplob</h1>
-<h2 align="center">A passionate Back-end Web developer from Bangladesh</h2><br>
+<h2 align="center">A passionate Full-stack Web developer from Bangladesh</h2><br>
 <img align="center" alt="Coding"  src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
 
 
@@ -17,11 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibrahimbiplob75](https://github.com/ibrahimbiplob75)
 
-- 💬 Ask me about **Java, Php ,My-Sql**
+- 💬 Ask me about **Java, Php ,MySQL**
 
 - 📫 How to reach me **mibiplob01@niter.edu.bd**
 
-- ⚡ Fun fact **I am always possitive and riant**
+- ⚡ Fun fact **I am always positive and riant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +37,7 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40"height="40"/> 
   </a>
-
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"            width="40" height="40"/> 
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
  </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
