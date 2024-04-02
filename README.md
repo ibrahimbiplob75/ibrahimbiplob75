@@ -7,15 +7,15 @@
 
 <img align="right" alt="Coding" width="500px"  src="https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif">
 
-- 🔭 I’m currently working on **CSE-department website**
+- 🔭 I’m currently working on **Travel Book website**
 
-- 🌱 I’m currently learning **PHP , Laravel, JavaScript, React, MongoDB**
+- 🌱 I’m currently learning **PHP , Laravel, JavaScript, React, MongoDB , NodeJS , NextJS , ExpressJS**
 
 - 👯 I’m looking to collaborate on **Web application development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibrahimbiplob75](https://github.com/ibrahimbiplob75)
 
-- 💬 Ask me about **Java, Php, MySQL, JavaScript, React, MongoDB**
+- 💬 Ask me about **Java,python ,Php, MySQL, JavaScript, React, MongoDB**
 
 - 📫 How to reach me **mibiplob01@niter.edu.bd**
 
