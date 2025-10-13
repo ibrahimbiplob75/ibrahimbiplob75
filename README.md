@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Md Ibrahim Biplob</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | Software Engineer | Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
-<img align="center" alt="Coding"  src="[https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*rXsPS6gVqCeuh71N.gif">
+<img align="center" alt="Coding"  src="[https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*rXsPS6gVqCeuh71N.gif](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*rXsPS6gVqCeuh71N.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimbiplob75&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimbiplob75" /> </p> 
 
 ---
