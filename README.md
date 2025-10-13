@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Full-Stack Web Developer | Software Engineer | Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://www.21kschool.com/in/wp-content/uploads/sites/4/2023/07/Coding.png" alt="Coding Banner" width="80%" />
+    <img align="right" alt="Coding" width="500px" src="https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif" alt="Coding Banner" width="80%" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimbiplob75&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimbiplob75" /> </p> <img align="right" alt="Coding" width="500px" src="https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif">
+ 
 
 ---
 
