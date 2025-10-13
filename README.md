@@ -32,7 +32,7 @@
 
 ### 🟩 MERN Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mongoose,express,react,nodejs,nextjs,redux,firebase,typescript" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,redux,firebase,typescript" />
 </p>
 
 ### 🟦 PHP / Laravel Stack
