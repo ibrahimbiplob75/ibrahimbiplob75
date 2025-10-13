@@ -52,7 +52,7 @@
 
 ### 🧰 Tools, Frameworks & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,overleaf,latex,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,latex,figma,notion" />
 </p>
 
 ### 📱 Android & IoT
